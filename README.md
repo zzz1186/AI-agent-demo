@@ -6,19 +6,19 @@
 
 \## 技术栈
 
-\- Python
+Python
 
-\- LangGraph：构建Agent状态节点、会话记忆
+LangGraph：构建Agent状态节点、会话记忆
 
-\- LangChain‑Ollama：本地大模型调用
+LangChain‑Ollama：本地大模型调用
 
-\- Chroma：向量数据库
+Chroma：向量数据库
 
-\- nomic‑embed‑text：文本嵌入模型
+nomic‑embed‑text：文本嵌入模型
 
-\- PyPDFLoader：PDF文档解析
+PyPDFLoader：PDF文档解析
 
-\- Gradio：网页交互UI
+Gradio：网页交互UI
 
 
 
