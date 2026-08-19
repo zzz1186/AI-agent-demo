@@ -1,0 +1,17 @@
+#向量数据库缓存，不要上传
+chroma_db/
+
+#python编译缓存
+__pycache__/
+*.pyc
+*.pyo
+
+#虚拟环境文件夹不要上传
+venv/
+
+#系统生成文件
+.DS_Store
+Thumbs.db
+
+#测试pdf
+test.pdf
